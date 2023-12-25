@@ -1,0 +1,15 @@
+D:\code\c#\c# vsc\wordsCharCount\bin\Debug\net8.0\wordsCharCount.exe
+D:\code\c#\c# vsc\wordsCharCount\bin\Debug\net8.0\wordsCharCount.deps.json
+D:\code\c#\c# vsc\wordsCharCount\bin\Debug\net8.0\wordsCharCount.runtimeconfig.json
+D:\code\c#\c# vsc\wordsCharCount\bin\Debug\net8.0\wordsCharCount.dll
+D:\code\c#\c# vsc\wordsCharCount\bin\Debug\net8.0\wordsCharCount.pdb
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.AssemblyInfoInputs.cache
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.AssemblyInfo.cs
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.csproj.CoreCompileInputs.cache
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.sourcelink.json
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.dll
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\refint\wordsCharCount.dll
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.pdb
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\wordsCharCount.genruntimeconfig.cache
+D:\code\c#\c# vsc\wordsCharCount\obj\Debug\net8.0\ref\wordsCharCount.dll
